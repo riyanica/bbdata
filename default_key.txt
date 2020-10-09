@@ -1,0 +1,13 @@
+password
+passwd
+passwrd
+pass
+pwd
+key
+token
+tkn
+secret
+sec
+credential
+cred
+access
