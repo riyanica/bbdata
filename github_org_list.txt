@@ -8,7 +8,7 @@ binance
 bitdefender
 boozt
 booztlet
-bugpoc
+bugcrowd
 canva
 certsy
 certsynonprod
@@ -20,6 +20,7 @@ creditkarma
 cyberoam
 directly
 expressvpn
+facebook
 fireeyecloud
 fireeye
 fitbit
@@ -118,9 +119,7 @@ gsam
 gs
 gspublishing
 gsselect
-hackerone-ext-content
-hackerone
-hackerone-user-content
+Hacker0x01
 highwebmedia
 honestdollar
 hoteltonight-test
