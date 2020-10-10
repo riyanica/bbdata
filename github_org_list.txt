@@ -1,8 +1,5 @@
-aips-internal
-aips-services
 astaro
 atlassian
-atl-paas
 better
 binance
 bitdefender
@@ -24,9 +21,7 @@ facebook
 fireeyecloud
 fireeye
 fitbit
-flare-on
 foxycart
-fw-notify
 gojek
 hitmanpro
 indeed
@@ -54,7 +49,6 @@ scoober
 seek
 skinfra
 skyscanner
-sol-data
 sophos
 soundcloud
 square
@@ -69,7 +63,6 @@ verodin
 xvservice
 1688
 acronis
-airbnb-aws
 airbnbcitizen
 airbnb
 airtable
@@ -81,7 +74,6 @@ alibaba-inc
 aliexpress
 alimama
 aliyun
-aliyun-inc
 atairbnb
 ayco
 betfair
@@ -126,13 +118,12 @@ hoteltonight-test
 igame
 igpayment
 innogames
-irccloud-cdn
 irccloud
 kolikkopelit
 kromtech
 liberapay
 lifeomic
-line-apps
+line
 livestream
 login
 luxuryretreats
@@ -152,7 +143,6 @@ nordvpn
 ottokasino
 paddypower
 paydiant
-paypal-*
 paypal
 playstation
 qiwi
@@ -170,7 +160,6 @@ shopifykloud
 sonyentertainmentnetwork
 spotify
 spotifyforbrands
-staging-airtableblocks
 storspiller
 taobao
 tmall
@@ -193,7 +182,6 @@ vanillastaging
 venmo
 vimeo
 vk
-web-security-academy
 withairbnb
 wordcamp
 wordpress
