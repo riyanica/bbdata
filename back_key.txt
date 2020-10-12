@@ -1,15 +1,6 @@
-_password
-_passwd
-_passwrd
 _pass
 _pwd
-_apikey
-_api_key
 _key
 _token
-_tkn
 _secret
-_sec
 _credential
-_cred
-_ACCESS_KEY
